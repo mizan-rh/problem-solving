@@ -1,3 +1,6 @@
+// Array Reduction
+// Create an array of numbers. Write a function that uses the reduce method to calculate the sum of all even numbers in the array.
+
 // Array of numbers
 const numbers = [10, 15, 20, 25, 30, 35, 40];
 
