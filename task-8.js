@@ -1,3 +1,6 @@
+// Find Maximum Value:
+// Write a function that takes an array of numbers and returns the maximum value.
+
 function findMaxValue(numbers) {
   if (numbers.length === 0) {
     return null; // or throw an error
